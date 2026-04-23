@@ -1,0 +1,54 @@
+{
+    "vehicles": [
+        {
+            "vehicle_id": 1,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 2,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 3,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 4,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 5,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 6,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 7,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 8,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 9,
+            "capacity_liters": 1000,
+            "status": "active"
+        },
+        {
+            "vehicle_id": 10,
+            "capacity_liters": 1000,
+            "status": "active"
+        }
+    ]
+}

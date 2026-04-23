@@ -1,0 +1,1013 @@
+{
+    "status": "success",
+    "optimization_mode": "FALLBACK",
+    "vehicles": [
+        {
+            "vehicle_id": 1,
+            "total_distance_km": 276.3,
+            "total_delivered_liters": 980,
+            "route_duration_min": 478.6,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-001",
+                    "priority": "critical",
+                    "arrival_min": 119.2,
+                    "departure_min": 139.2,
+                    "arrival_deadline_min": 671.2,
+                    "completion_deadline_min": 691.2,
+                    "arrival_slack_min": 552.0,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 380
+                },
+                {
+                    "site_id": "TWR-052",
+                    "priority": "critical",
+                    "arrival_min": 246.5,
+                    "departure_min": 266.5,
+                    "arrival_deadline_min": 268.0,
+                    "completion_deadline_min": 288.0,
+                    "arrival_slack_min": 21.5,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 450
+                },
+                {
+                    "site_id": "TWR-016",
+                    "priority": "opportunistic",
+                    "arrival_min": 411.8,
+                    "departure_min": 431.8,
+                    "arrival_deadline_min": 1996.0,
+                    "completion_deadline_min": 2016.0,
+                    "arrival_slack_min": 1584.2,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 150
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 478.6,
+                    "departure_min": 478.6,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 2,
+            "total_distance_km": 189.466,
+            "total_delivered_liters": 850,
+            "route_duration_min": 317.1,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-065",
+                    "priority": "critical",
+                    "arrival_min": 143.0,
+                    "departure_min": 173.0,
+                    "arrival_deadline_min": 402.0,
+                    "completion_deadline_min": 432.0,
+                    "arrival_slack_min": 259.0,
+                    "service_time_min": 30.0,
+                    "delivered_liters": 850
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 317.1,
+                    "departure_min": 317.1,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 3,
+            "total_distance_km": 368.966,
+            "total_delivered_liters": 870,
+            "route_duration_min": 599.0,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-007",
+                    "priority": "critical",
+                    "arrival_min": 254.0,
+                    "departure_min": 274.0,
+                    "arrival_deadline_min": 268.0,
+                    "completion_deadline_min": 288.0,
+                    "arrival_slack_min": 14.0,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 450
+                },
+                {
+                    "site_id": "TWR-019",
+                    "priority": "critical",
+                    "arrival_min": 369.2,
+                    "departure_min": 389.2,
+                    "arrival_deadline_min": 440.8,
+                    "completion_deadline_min": 460.8,
+                    "arrival_slack_min": 71.6,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 420
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 599.0,
+                    "departure_min": 599.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 4,
+            "total_distance_km": 162.455,
+            "total_delivered_liters": 850,
+            "route_duration_min": 276.1,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-023",
+                    "priority": "critical",
+                    "arrival_min": 124.2,
+                    "departure_min": 154.2,
+                    "arrival_deadline_min": 402.0,
+                    "completion_deadline_min": 432.0,
+                    "arrival_slack_min": 277.8,
+                    "service_time_min": 30.0,
+                    "delivered_liters": 850
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 276.1,
+                    "departure_min": 276.1,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 5,
+            "total_distance_km": 193.406,
+            "total_delivered_liters": 880,
+            "route_duration_min": 323.0,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-080",
+                    "priority": "critical",
+                    "arrival_min": 145.2,
+                    "departure_min": 175.2,
+                    "arrival_deadline_min": 315.6,
+                    "completion_deadline_min": 345.6,
+                    "arrival_slack_min": 170.3,
+                    "service_time_min": 30.0,
+                    "delivered_liters": 880
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 323.0,
+                    "departure_min": 323.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 6,
+            "total_distance_km": 246.826,
+            "total_delivered_liters": 800,
+            "route_duration_min": 413.9,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-031",
+                    "priority": "critical",
+                    "arrival_min": 104.5,
+                    "departure_min": 124.5,
+                    "arrival_deadline_min": 556.0,
+                    "completion_deadline_min": 576.0,
+                    "arrival_slack_min": 451.5,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 400
+                },
+                {
+                    "site_id": "TWR-073",
+                    "priority": "critical",
+                    "arrival_min": 272.1,
+                    "departure_min": 292.1,
+                    "arrival_deadline_min": 556.0,
+                    "completion_deadline_min": 576.0,
+                    "arrival_slack_min": 283.9,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 400
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 413.9,
+                    "departure_min": 413.9,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 7,
+            "total_distance_km": 266.285,
+            "total_delivered_liters": 930,
+            "route_duration_min": 453.4,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-014",
+                    "priority": "critical",
+                    "arrival_min": 208.6,
+                    "departure_min": 238.6,
+                    "arrival_deadline_min": 690.0,
+                    "completion_deadline_min": 720.0,
+                    "arrival_slack_min": 481.4,
+                    "service_time_min": 30.0,
+                    "delivered_liters": 750
+                },
+                {
+                    "site_id": "TWR-034",
+                    "priority": "opportunistic",
+                    "arrival_min": 238.6,
+                    "departure_min": 258.6,
+                    "arrival_deadline_min": 1823.2,
+                    "completion_deadline_min": 1843.2,
+                    "arrival_slack_min": 1584.6,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 180
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 453.4,
+                    "departure_min": 453.4,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 8,
+            "total_distance_km": 116.415,
+            "total_delivered_liters": 750,
+            "route_duration_min": 206.4,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-059",
+                    "priority": "critical",
+                    "arrival_min": 89.3,
+                    "departure_min": 119.3,
+                    "arrival_deadline_min": 690.0,
+                    "completion_deadline_min": 720.0,
+                    "arrival_slack_min": 600.7,
+                    "service_time_min": 30.0,
+                    "delivered_liters": 750
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 206.4,
+                    "departure_min": 206.4,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 9,
+            "total_distance_km": 359.372,
+            "total_delivered_liters": 770,
+            "route_duration_min": 584.5,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-094",
+                    "priority": "critical",
+                    "arrival_min": 239.0,
+                    "departure_min": 259.0,
+                    "arrival_deadline_min": 268.0,
+                    "completion_deadline_min": 288.0,
+                    "arrival_slack_min": 29.0,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 450
+                },
+                {
+                    "site_id": "TWR-013",
+                    "priority": "planned",
+                    "arrival_min": 434.6,
+                    "departure_min": 454.6,
+                    "arrival_deadline_min": 1016.8,
+                    "completion_deadline_min": 1036.8,
+                    "arrival_slack_min": 582.1,
+                    "service_time_min": 20.0,
+                    "delivered_liters": 320
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 584.5,
+                    "departure_min": 584.5,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        },
+        {
+            "vehicle_id": 10,
+            "total_distance_km": 259.344,
+            "total_delivered_liters": 970,
+            "route_duration_min": 452.9,
+            "steps": [
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 0.0,
+                    "departure_min": 0.0,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                },
+                {
+                    "site_id": "TWR-020",
+                    "priority": "opportunistic",
+                    "arrival_min": 27.5,
+                    "departure_min": 57.5,
+                    "arrival_deadline_min": 2130.0,
+                    "completion_deadline_min": 2160.0,
+                    "arrival_slack_min": 2102.5,
+                    "service_time_min": 30.0,
+                    "delivered_liters": 250
+                },
+                {
+                    "site_id": "TWR-047",
+                    "priority": "critical",
+                    "arrival_min": 229.7,
+                    "departure_min": 259.7,
+                    "arrival_deadline_min": 776.4,
+                    "completion_deadline_min": 806.4,
+                    "arrival_slack_min": 546.7,
+                    "service_time_min": 30.0,
+                    "delivered_liters": 720
+                },
+                {
+                    "site_id": "DEPOT-0",
+                    "priority": "DEPOT",
+                    "arrival_min": 452.9,
+                    "departure_min": 452.9,
+                    "arrival_deadline_min": null,
+                    "completion_deadline_min": null,
+                    "arrival_slack_min": null,
+                    "service_time_min": 0.0,
+                    "delivered_liters": 0
+                }
+            ]
+        }
+    ],
+    "dropped_by_solver": [
+        {
+            "site_id": "TWR-002",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1266.0,
+            "completion_deadline_min": 1296.0,
+            "demand_liters": 550
+        },
+        {
+            "site_id": "TWR-003",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 344.0,
+            "completion_deadline_min": 384.0,
+            "demand_liters": 1300
+        },
+        {
+            "site_id": "TWR-008",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 834.0,
+            "completion_deadline_min": 864.0,
+            "demand_liters": 700
+        },
+        {
+            "site_id": "TWR-009",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1496.0,
+            "completion_deadline_min": 1536.0,
+            "demand_liters": 700
+        },
+        {
+            "site_id": "TWR-012",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 728.0,
+            "completion_deadline_min": 768.0,
+            "demand_liters": 1100
+        },
+        {
+            "site_id": "TWR-015",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 2072.0,
+            "completion_deadline_min": 2112.0,
+            "demand_liters": 400
+        },
+        {
+            "site_id": "TWR-017",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1698.0,
+            "completion_deadline_min": 1728.0,
+            "demand_liters": 400
+        },
+        {
+            "site_id": "TWR-024",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1688.0,
+            "completion_deadline_min": 1728.0,
+            "demand_liters": 600
+        },
+        {
+            "site_id": "TWR-025",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1592.8,
+            "completion_deadline_min": 1612.8,
+            "demand_liters": 220
+        },
+        {
+            "site_id": "TWR-027",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1016.0,
+            "completion_deadline_min": 1056.0,
+            "demand_liters": 950
+        },
+        {
+            "site_id": "TWR-029",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1064.4,
+            "completion_deadline_min": 1094.4,
+            "demand_liters": 620
+        },
+        {
+            "site_id": "TWR-032",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1842.0,
+            "completion_deadline_min": 1872.0,
+            "demand_liters": 350
+        },
+        {
+            "site_id": "TWR-033",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 248.0,
+            "completion_deadline_min": 288.0,
+            "demand_liters": 1350
+        },
+        {
+            "site_id": "TWR-038",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 315.6,
+            "completion_deadline_min": 345.6,
+            "demand_liters": 880
+        },
+        {
+            "site_id": "TWR-039",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1592.0,
+            "completion_deadline_min": 1632.0,
+            "demand_liters": 650
+        },
+        {
+            "site_id": "TWR-040",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 2226.4,
+            "completion_deadline_min": 2246.4,
+            "demand_liters": 110
+        },
+        {
+            "site_id": "TWR-042",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 536.0,
+            "completion_deadline_min": 576.0,
+            "demand_liters": 1200
+        },
+        {
+            "site_id": "TWR-043",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1132.0,
+            "completion_deadline_min": 1152.0,
+            "demand_liters": 300
+        },
+        {
+            "site_id": "TWR-044",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1122.0,
+            "completion_deadline_min": 1152.0,
+            "demand_liters": 600
+        },
+        {
+            "site_id": "TWR-045",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 2168.0,
+            "completion_deadline_min": 2208.0,
+            "demand_liters": 350
+        },
+        {
+            "site_id": "TWR-048",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1304.0,
+            "completion_deadline_min": 1344.0,
+            "demand_liters": 800
+        },
+        {
+            "site_id": "TWR-049",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 844.0,
+            "completion_deadline_min": 864.0,
+            "demand_liters": 350
+        },
+        {
+            "site_id": "TWR-053",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1698.0,
+            "completion_deadline_min": 1728.0,
+            "demand_liters": 400
+        },
+        {
+            "site_id": "TWR-054",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 440.0,
+            "completion_deadline_min": 480.0,
+            "demand_liters": 1250
+        },
+        {
+            "site_id": "TWR-057",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 728.0,
+            "completion_deadline_min": 768.0,
+            "demand_liters": 1100
+        },
+        {
+            "site_id": "TWR-058",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1016.8,
+            "completion_deadline_min": 1036.8,
+            "demand_liters": 320
+        },
+        {
+            "site_id": "TWR-060",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 2072.0,
+            "completion_deadline_min": 2112.0,
+            "demand_liters": 400
+        },
+        {
+            "site_id": "TWR-061",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1996.0,
+            "completion_deadline_min": 2016.0,
+            "demand_liters": 150
+        },
+        {
+            "site_id": "TWR-062",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 2130.0,
+            "completion_deadline_min": 2160.0,
+            "demand_liters": 250
+        },
+        {
+            "site_id": "TWR-063",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1592.0,
+            "completion_deadline_min": 1632.0,
+            "demand_liters": 650
+        },
+        {
+            "site_id": "TWR-066",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1688.0,
+            "completion_deadline_min": 1728.0,
+            "demand_liters": 600
+        },
+        {
+            "site_id": "TWR-067",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1592.8,
+            "completion_deadline_min": 1612.8,
+            "demand_liters": 220
+        },
+        {
+            "site_id": "TWR-069",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1016.0,
+            "completion_deadline_min": 1056.0,
+            "demand_liters": 950
+        },
+        {
+            "site_id": "TWR-071",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1064.4,
+            "completion_deadline_min": 1094.4,
+            "demand_liters": 620
+        },
+        {
+            "site_id": "TWR-074",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1842.0,
+            "completion_deadline_min": 1872.0,
+            "demand_liters": 350
+        },
+        {
+            "site_id": "TWR-075",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 248.0,
+            "completion_deadline_min": 288.0,
+            "demand_liters": 1350
+        },
+        {
+            "site_id": "TWR-076",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1823.2,
+            "completion_deadline_min": 1843.2,
+            "demand_liters": 180
+        },
+        {
+            "site_id": "TWR-081",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1592.0,
+            "completion_deadline_min": 1632.0,
+            "demand_liters": 650
+        },
+        {
+            "site_id": "TWR-082",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 2226.4,
+            "completion_deadline_min": 2246.4,
+            "demand_liters": 110
+        },
+        {
+            "site_id": "TWR-084",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 536.0,
+            "completion_deadline_min": 576.0,
+            "demand_liters": 1200
+        },
+        {
+            "site_id": "TWR-085",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1132.0,
+            "completion_deadline_min": 1152.0,
+            "demand_liters": 300
+        },
+        {
+            "site_id": "TWR-086",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1122.0,
+            "completion_deadline_min": 1152.0,
+            "demand_liters": 600
+        },
+        {
+            "site_id": "TWR-087",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 2168.0,
+            "completion_deadline_min": 2208.0,
+            "demand_liters": 350
+        },
+        {
+            "site_id": "TWR-089",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 776.4,
+            "completion_deadline_min": 806.4,
+            "demand_liters": 720
+        },
+        {
+            "site_id": "TWR-090",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1304.0,
+            "completion_deadline_min": 1344.0,
+            "demand_liters": 800
+        },
+        {
+            "site_id": "TWR-091",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 844.0,
+            "completion_deadline_min": 864.0,
+            "demand_liters": 350
+        },
+        {
+            "site_id": "TWR-095",
+            "priority": "opportunistic",
+            "status": "OPTIONAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1698.0,
+            "completion_deadline_min": 1728.0,
+            "demand_liters": 400
+        },
+        {
+            "site_id": "TWR-096",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 440.0,
+            "completion_deadline_min": 480.0,
+            "demand_liters": 1250
+        },
+        {
+            "site_id": "TWR-099",
+            "priority": "critical",
+            "status": "CRITICAL_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 728.0,
+            "completion_deadline_min": 768.0,
+            "demand_liters": 1100
+        },
+        {
+            "site_id": "TWR-100",
+            "priority": "planned",
+            "status": "PLANNED_UNASSIGNED_IN_FALLBACK",
+            "arrival_deadline_min": 1016.8,
+            "completion_deadline_min": 1036.8,
+            "demand_liters": 320
+        }
+    ],
+    "blocked_by_dispatcher": [],
+    "skipped_nominal": [
+        "TWR-004",
+        "TWR-005",
+        "TWR-006",
+        "TWR-010",
+        "TWR-018",
+        "TWR-022",
+        "TWR-026",
+        "TWR-028",
+        "TWR-030",
+        "TWR-035",
+        "TWR-036",
+        "TWR-037",
+        "TWR-041",
+        "TWR-046",
+        "TWR-050",
+        "TWR-051",
+        "TWR-055",
+        "TWR-056",
+        "TWR-064",
+        "TWR-068",
+        "TWR-070",
+        "TWR-072",
+        "TWR-077",
+        "TWR-078",
+        "TWR-079",
+        "TWR-083",
+        "TWR-088",
+        "TWR-092",
+        "TWR-093",
+        "TWR-097",
+        "TWR-098"
+    ],
+    "skipped_by_policy": [
+        {
+            "site_id": "TWR-011",
+            "priority": "nominal",
+            "reason": "repair"
+        },
+        {
+            "site_id": "TWR-021",
+            "priority": "critical",
+            "reason": "closed"
+        }
+    ],
+    "diagnostics": {
+        "total_active_fleet_capacity_liters": 10000,
+        "total_mandatory_demand_liters": 31000,
+        "mandatory_demand_exceeds_total_capacity": true,
+        "unreachable_from_depot": [],
+        "overweight_for_single_vehicle": [
+            {
+                "site_id": "TWR-003",
+                "priority": "critical",
+                "demand_liters": 1300,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-012",
+                "priority": "critical",
+                "demand_liters": 1100,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-033",
+                "priority": "critical",
+                "demand_liters": 1350,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-042",
+                "priority": "critical",
+                "demand_liters": 1200,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-054",
+                "priority": "critical",
+                "demand_liters": 1250,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-057",
+                "priority": "critical",
+                "demand_liters": 1100,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-075",
+                "priority": "critical",
+                "demand_liters": 1350,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-084",
+                "priority": "critical",
+                "demand_liters": 1200,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-096",
+                "priority": "critical",
+                "demand_liters": 1250,
+                "max_vehicle_capacity_liters": 1000
+            },
+            {
+                "site_id": "TWR-099",
+                "priority": "critical",
+                "demand_liters": 1100,
+                "max_vehicle_capacity_liters": 1000
+            }
+        ]
+    },
+    "warnings": [
+        "Strict constraints failed. Evaluated a compromise route; some sites remain unassigned.",
+        "Total mandatory demand exceeds the cumulative capacity of the active fleet."
+    ]
+}
