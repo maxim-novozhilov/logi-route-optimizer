@@ -43,3 +43,11 @@ The project uses the `mock_data/` directory to store both input configurations a
     * **Vehicle Routes:** Precise turn-by-turn schedules for every truck.
     * **Diagnostic Arrays:** Detailed lists of skipped sites (`skipped_nominal`, `skipped_by_policy`, `overweight_for_single_vehicle`) to ensure 100% operational transparency.
 
+## ⚙️ Configuration
+
+The system uses environment variables for AI integration and server settings. 
+To set up the project:
+
+1. Create a `.env` file in the root directory (use `.env.example` as a template).
+2. Add your **OpenRouter API Key** to enable the AI Dispatcher.
+3. Specify the model you wish to use (default is `llama-3.3-70b`).
